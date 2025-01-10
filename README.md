@@ -14,10 +14,10 @@ A simple API to fetch cryptocurrency statistics (price, market cap, 24h change) 
 - **GET `/deviation?coin=<coin_name>`**: Get the standard deviation of the price for the requested cryptocurrency from the last 100 records stored.
 
 ## Setup
-
+```bash
 ### 1. Clone the repository
 
-```bash
+
 git clone <repository_url>
 cd <repository_folder>
 
