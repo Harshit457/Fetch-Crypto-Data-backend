@@ -15,8 +15,8 @@ A simple API to fetch cryptocurrency statistics (price, market cap, 24h change) 
 
 ## Setup
 ```bash
-### 1. Clone the repository
 
+1. Clone the repository
 
 git clone <repository_url>
 cd <repository_folder>
