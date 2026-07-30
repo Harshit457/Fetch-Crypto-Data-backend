@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 config.bat
+.env
+.env.*
+!.env.example
